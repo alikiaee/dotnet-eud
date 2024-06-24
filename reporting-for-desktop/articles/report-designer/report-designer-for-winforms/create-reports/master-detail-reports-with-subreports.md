@@ -49,7 +49,7 @@ This tutorial demonstrates how to create a master-detail report using the [Subre
 	
 	![](../../../../images/eurd-win-master-report-add-subreport.png)
 
-2. Click the subreport's smart tag and clcik the **Report Source URL** property's ellipsis button. In the invoked **Open** dialog, select the previously saved detail report.
+2. Click the subreport's smart tag and click the **Report Source URL** property's ellipsis button. In the invoked **Open** dialog, select the previously saved detail report.
 	
 	![](../../../../images/eurd-win-master-report-subreport-report-source-url.png)
 	
